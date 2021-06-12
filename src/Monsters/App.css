@@ -1,0 +1,10 @@
+* {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+}
+@media screen and (max-width: 620px) {
+  .card {
+    width: 260px;
+  }
+}
